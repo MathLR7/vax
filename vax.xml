@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <state>São Paulo</state>
+    <iso_code>sp</iso_code>
+    <total_vaccinations>
+      <1>1232901</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>2.66</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado de São Paulo</source_name>
+    <source_website>https://www.saopaulo.sp.gov.br/</source_website>
+  </row>
+  <row>
+    <state>Minas Gerais</state>
+    <iso_code>mg</iso_code>
+    <total_vaccinations>
+      <1>354787</1>
+      <2>60982</2>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>1.67</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred>0.29</people_fully_vaccinated_per_hundred>
+    <source_name>Governo do estado de Minas Gerais</source_name>
+    <source_website>https://coronavirus.saude.mg.gov.br/vacinometro</source_website>
+  </row>
+  <row>
+    <state>Rio de Janeiro</state>
+    <iso_code>rj</iso_code>
+    <total_vaccinations>
+      <1>336508</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>1.94</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado do Rio de Janeiro</source_name>
+    <source_website>https://vacinacaocovid19.saude.rj.gov.br/vacinometro</source_website>
+  </row>
+  <row>
+    <state>Bahia</state>
+    <iso_code>ba</iso_code>
+    <total_vaccinations>
+      <1>358775</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>2.40</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado da Bahia</source_name>
+    <source_website>https://bi.saude.ba.gov.br/vacinacao/</source_website>
+  </row>
+  <row>
+    <state>Paraná</state>
+    <iso_code>pr</iso_code>
+    <total_vaccinations>
+      <1>225044</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>1.95</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado do Paraná</source_name>
+    <source_website>http://www.coronavirus.pr.gov.br/Vacinacao-numeros</source_website>
+  </row>
+  <row>
+    <state>Rio Grande do Sul</state>
+    <iso_code>rs</iso_code>
+    <total_vaccinations>
+      <1>267691</1>
+      <2>1525</2>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>2.34</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred>0.01</people_fully_vaccinated_per_hundred>
+    <source_name>Governo do estado do Rio Grande do Sul</source_name>
+    <source_website>https://vacina.saude.rs.gov.br/</source_website>
+  </row>
+  <row>
+    <state>Pernambuco</state>
+    <iso_code>pe</iso_code>
+    <total_vaccinations>
+      <1>211961</1>
+      <2>18412</2>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>2.20</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred>0.19</people_fully_vaccinated_per_hundred>
+    <source_name>Governo do estado de Pernambuco</source_name>
+    <source_website>https://www.pecontracoronavirus.pe.gov.br/noticias/</source_website>
+  </row>
+  <row>
+    <state>Ceará</state>
+    <iso_code>ce</iso_code>
+    <total_vaccinations>
+      <1>204945</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>2.23</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado do Ceará</source_name>
+    <source_website>https://www.saude.ce.gov.br/vacinometro-covid-19/</source_website>
+  </row>
+  <row>
+    <state>Pará</state>
+    <iso_code>pa</iso_code>
+    <total_vaccinations>
+      <1>111032</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>1.28</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado do Pará</source_name>
+    <source_website>http://www.saude.pa.gov.br/vacinometro/</source_website>
+  </row>
+  <row>
+    <state>Santa Catarina</state>
+    <iso_code>sc</iso_code>
+    <total_vaccinations>
+      <1>96985</1>
+      <2>494</2>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>1.34</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred>0.01</people_fully_vaccinated_per_hundred>
+    <source_name>Governo do estado de Santa Catarina</source_name>
+    <source_website>https://datastudio.google.com/u/0/reporting/0cc4dda4-9bae-4452-9836-efd2ae73d6d3/page/iWQxB</source_website>
+  </row>
+  <row>
+    <state>Maranhão</state>
+    <iso_code>ma</iso_code>
+    <total_vaccinations>
+      <1>97952</1>
+      <2>4428</2>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>1.38</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred>0.06</people_fully_vaccinated_per_hundred>
+    <source_name>Governo do estado do Maranhão</source_name>
+    <source_website>https://painel-covid19.saude.ma.gov.br/vacinas</source_website>
+  </row>
+  <row>
+    <state>Goiás</state>
+    <iso_code>go</iso_code>
+    <total_vaccinations>
+      <1>152619</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>2.15</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado do Goiás</source_name>
+    <source_website>https://extranet.saude.go.gov.br/pentaho/api/repos/:coronavirus:paineis:painel.wcdf/generatedContent#conteudoVacinacao</source_website>
+  </row>
+  <row>
+    <state>Amazonas</state>
+    <iso_code>am</iso_code>
+    <total_vaccinations>
+      <1>174990</1>
+      <2>4160</2>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>4.16</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred>0.10</people_fully_vaccinated_per_hundred>
+    <source_name>Governo do estado do Amazonas</source_name>
+    <source_website>https://public.tableau.com/views/Boletim_resumido_vacinas/Painel14?:embed=y&amp;:showVizHome=no</source_website>
+  </row>
+  <row>
+    <state>Espírito Santo</state>
+    <iso_code>es</iso_code>
+    <total_vaccinations>
+      <1>91333</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>2.25</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado do Espírito Santo</source_name>
+    <source_website>https://coronavirus.es.gov.br/</source_website>
+  </row>
+  <row>
+    <state>Paraíba</state>
+    <iso_code>pb</iso_code>
+    <total_vaccinations>
+      <1>81414</1>
+      <2>1044</2>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>2.02</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred>0.03</people_fully_vaccinated_per_hundred>
+    <source_name>Governo do estado da Paraíba</source_name>
+    <source_website>https://superset.plataformatarget.com.br/superset/dashboard/vacinas/</source_website>
+  </row>
+  <row>
+    <state>Rio Grande do Norte</state>
+    <iso_code>rn</iso_code>
+    <total_vaccinations>
+      <1>73481</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>2.08</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Universidade Federal do Rio Grande do Norte - UFRN</source_name>
+    <source_website>https://rnmaisvacina.lais.ufrn.br/</source_website>
+  </row>
+  <row>
+    <state>Mato Grosso</state>
+    <iso_code>mt</iso_code>
+    <total_vaccinations>
+      <1>68450</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>1.94</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado do Mato Grosso</source_name>
+    <source_website>https://vacina.cuiaba.mt.gov.br/</source_website>
+  </row>
+  <row>
+    <state>Alagoas</state>
+    <iso_code>al</iso_code>
+    <total_vaccinations>
+      <1>74890</1>
+      <2>1915</2>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>2.23</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred>0.06</people_fully_vaccinated_per_hundred>
+    <source_name>Governo do estado de Alagoas</source_name>
+    <source_website>http://www.alagoascontraocoronavirus.al.gov.br/</source_website>
+  </row>
+  <row>
+    <state>Piauí</state>
+    <iso_code>pi</iso_code>
+    <total_vaccinations>
+      <1>53617</1>
+      <2>36</2>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>1.63</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado do Piauí</source_name>
+    <source_website>https://datastudio.google.com/reporting/a6dc07e9-4161-4b5a-9f2a-6f9be486e8f9/page/d06pB?s=jnBw3b_RpcA</source_website>
+  </row>
+  <row>
+    <state>Distrito Federal</state>
+    <iso_code>df</iso_code>
+    <total_vaccinations>
+      <1>109893</1>
+      <2>7427</2>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>3.60</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred>0.24</people_fully_vaccinated_per_hundred>
+    <source_name>Governo do Distrito Federal</source_name>
+    <source_website>http://www.saude.df.gov.br/balanco-diario-vacinacao-covid-19-no-df/</source_website>
+  </row>
+  <row>
+    <state>Mato Grosso do Sul</state>
+    <iso_code>ms</iso_code>
+    <total_vaccinations>
+      <1>77808</1>
+      <2>8107</2>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>2.77</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred>0.29</people_fully_vaccinated_per_hundred>
+    <source_name>Governo do estado de Mato Grosso do Sul</source_name>
+    <source_website>http://mais.saude.ms.gov.br/sense/app/d3edb27b-8f52-4dff-a2e0-fc82bfc3fb6a/sheet/8cad7a0a-ba50-4760-a72b-f25fa7164022/state/analysis</source_website>
+  </row>
+  <row>
+    <state>Sergipe</state>
+    <iso_code>se</iso_code>
+    <total_vaccinations>
+      <1>32138</1>
+      <2>1826</2>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>1.39</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred>0.08</people_fully_vaccinated_per_hundred>
+    <source_name>Governo do estado de Sergipe</source_name>
+    <source_website>https://todoscontraocorona.net.br/</source_website>
+  </row>
+  <row>
+    <state>Rondônia</state>
+    <iso_code>ro</iso_code>
+    <total_vaccinations>
+      <1>33058</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>1.84</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado de Rondônia</source_name>
+    <source_website>https://covid19.sesau.ro.gov.br/Home/Vacina</source_website>
+  </row>
+  <row>
+    <state>Tocantins</state>
+    <iso_code>to</iso_code>
+    <total_vaccinations>
+      <1>22161</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>1.39</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado de Tocantins</source_name>
+    <source_website>http://integra.saude.to.gov.br/covid19/Vacinometro</source_website>
+  </row>
+  <row>
+    <state>Acre</state>
+    <iso_code>ac</iso_code>
+    <total_vaccinations>
+      <1>12076</1>
+      <2>18</2>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>1.35</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado do Acre</source_name>
+    <source_website>http://covid19.ac.gov.br/vacina/vacinas_aplicadas</source_website>
+  </row>
+  <row>
+    <state>Amapá</state>
+    <iso_code>ap</iso_code>
+    <total_vaccinations>
+      <1>15968</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>1.85</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado do Amapá</source_name>
+    <source_website>http://painel.corona.ap.gov.br/</source_website>
+  </row>
+  <row>
+    <state>Roraima</state>
+    <iso_code>rr</iso_code>
+    <total_vaccinations>
+      <1>20580</1>
+      <2/>
+    </total_vaccinations>
+    <vaccines>Sinovac/Butantan</vaccines>
+    <vaccines>Oxford/AstraZeneca</vaccines>
+    <last_update_date>2021-02-11</last_update_date>
+    <people_vaccinated_per_hundred>3.26</people_vaccinated_per_hundred>
+    <people_fully_vaccinated_per_hundred/>
+    <source_name>Governo do estado de Roraima</source_name>
+    <source_website>https://www.saude.rr.gov.br/</source_website>
+  </row>
+</root>
